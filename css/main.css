@@ -1,0 +1,14 @@
+h1{
+    font-size: 80px;
+}
+
+.container button{
+    background-color: blue;
+    color: white;
+    width: 250px;
+border-radius: 0% ;
+}
+
+.container button:hover{
+    background-color: green;
+}
